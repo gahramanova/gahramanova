@@ -39,5 +39,5 @@ I am Narmin, a Frontend Developer. I build interactive and responsive Web Applic
 
 ## Contact 
 
-If you want to work with a Frontend Developer, reach out 🙂
+If you want to work with a detail-oriented and respoonsible Frontend Developer, reach out 🙂
 
