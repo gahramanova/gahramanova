@@ -9,7 +9,7 @@ I am Narmin, a Frontend Developer. I build interactive and responsive Web Applic
 
 <hr/>
 
-**What I'm working on it**
+## What I'm working on it
 -  Improving **Petpal-petcare** e-commerce web application which is my first **full-stack** project. (Typescript+TailwindCSS / Express.js)
 -  Solving different problems and improving quality of the projects which are I'm currently working on it.
 -  Improving my designing skills using modern component based UI libraries and modern CSS framework.
@@ -17,8 +17,27 @@ I am Narmin, a Frontend Developer. I build interactive and responsive Web Applic
 
 </hr> 
 
-**My projects** 
+## My projects
 
-**Petpal-petcare** - **Overview** The main goal of the platform is to enable users to conveniently connect with expert veterinarians for the treatment of their animals and to order products online for the daily care of their pets.
+- **Petpal-petcare** - **Overview** The main goal of the platform is to enable users to conveniently connect with expert veterinarians for the treatment of their animals and to order products online for the daily care of their pets. https://github.com/gahramanova/Petpal 
+- **Petpal-petcare backend** - **Overview** Express.js, CRUD operations, JWT, bcrypt, Multer library, XSS, salt and paper.  https://github.com/gahramanova/Petpal-backend 
+- **Streamvibe-movie** - **Overview** The main goal of the platform is to enable users to find, watch the movies what they want, get information about actors and scenarios. https://github.com/gahramanova/streamvibe-movie
+- **Weather App** - **Overview** The main goal of the platform is to enable users find easily the currently weather condition of wherever city. https://github.com/gahramanova/Weather-App 
+<hr/>
 
+
+## Skills and Tools
+- HTML5, CSS3, JavaScript, React.js, Typescript, Next.js, SCSS, SASS, TailwindCSS, MaterialUI, Node.js, Express.js, Restfull APIs, Context API, Tanstack Query, Zustand, Responsive Design, Figma, Impelementing interactive UI solutions, Firebase, MongoDB
+
+
+## How I like to work 
+- Modular and maintainable structure — clear separation of components, hooks, and contexts.
+- Reusable and consistent UI — atomic design, responsive layouts, and clean styling.
+- Predictable state management — minimal side effects, clear data flow, and proper handling.
+- Secure and configurable — environment-based setup, API keys kept out of the codebase.
+- Performance-focused — lazy loading, memoization, and optimized builds for production.
+
+## Contact 
+
+If you want to work with a Frontend Developer, reach out 🙂
 
