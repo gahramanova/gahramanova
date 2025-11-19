@@ -19,7 +19,7 @@ I am Narmin, a Frontend Developer. I build interactive and responsive Web Applic
 
 ## My projects
 
-- **Deeply Real-time Chat App** - **Overview** A full-stack real-time chat application that enables users to send and receive messages instantly. Features secure authentication with Firebase, real-time messaging with WebSocket API and Socket.IO, and persistent storage with MongoDB. (React.js, TypeScript, TailwindCSS, Material-UI, Node.js, Express.js, Socket.IO, MongoDB, Firebase Authentication)
+- **Deeply Real-time Chat App** - **Overview** A full-stack real-time chat application that enables users to send and receive messages instantly. Features secure authentication with Firebase, real-time messaging with WebSocket API and Socket.IO, and persistent storage with MongoDB. (React.js, TypeScript, TailwindCSS, Material-UI, Node.js, Express.js, Socket.IO, MongoDB, Firebase Authentication) https://github.com/gahramanova/Deeply_Real_Chat_App
 - **Petpal-petcare** - **Overview** The main goal of the platform is to enable users to conveniently connect with expert veterinarians for the treatment of their animals and to order products online for the daily care of their pets. (Typescript + TailwindCss + MaterialUI) https://github.com/gahramanova/Petpal 
 - **Petpal-petcare backend** - **Overview** Express.js, CRUD operations, JWT, bcrypt, Multer library, XSS, salt and paper.  https://github.com/gahramanova/Petpal-backend 
 - **Streamvibe-movie** - **Overview** The main goal of the platform is to enable users to find, watch the movies what they want, get information about actors and scenarios. (React.js + TailwindCss)
