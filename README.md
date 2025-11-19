@@ -10,7 +10,9 @@ I am Narmin, a Frontend Developer. I build interactive and responsive Web Applic
 <hr/>
 
 ## What I'm working on it
--  Improving **Petpal-petcare** e-commerce web application which is my first **full-stack** project. (Typescript+TailwindCSS / Express.js)
+-  Improving **Deeply Real-time Chat** real-time chat app which is my second **full-stack** project. (Typescript+TailwindCSS / Express.js + Socket.IO)
+-  Docker: Gaining hands-on experience with containerization and building scalable, reproducible environments.
+-  CI/CD: Improving skills in automated build, test, and deployment pipelines to streamline development workflows.
 -  Solving different problems and improving quality of the projects which are I'm currently working on it.
 -  Improving my designing skills using modern component based UI libraries and modern CSS framework.
 -  Improving my API integration skills using different methods.
