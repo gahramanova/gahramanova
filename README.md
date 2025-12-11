@@ -20,12 +20,12 @@ I am Narmin, a Frontend Developer. I build interactive and responsive Web Applic
 </hr> 
 
 ## My projects
-
+- **LumiTalk AI** - **Overview** A modern AI-powered application built entirely on the frontend using **Groq API**, **React**, **TypeScript**, and **TailwindCSS**.
+LumiTalk AI demonstrates real-world AI integration, clean UI/UX, persistent multi-chat architecture, and seamless communication with LLMs using OpenAI-compatible endpoints. https://github.com/gahramanova/LumiTalk_AI_APP
 - **Deeply Real-time Chat App** - **Overview** A full-stack real-time chat application that enables users to send and receive messages instantly. Features secure authentication with Firebase, real-time messaging with WebSocket API and Socket.IO, and persistent storage with MongoDB. (React.js, TypeScript, TailwindCSS, Material-UI, Node.js, Express.js, Socket.IO, MongoDB, Firebase Authentication) https://github.com/gahramanova/Deeply_Real_Chat_App
 - **Petpal-petcare** - **Overview** The main goal of the platform is to enable users to conveniently connect with expert veterinarians for the treatment of their animals and to order products online for the daily care of their pets. (Typescript + TailwindCss + MaterialUI) https://github.com/gahramanova/Petpal 
 - **Petpal-petcare backend** - **Overview** Express.js, CRUD operations, JWT, bcrypt, Multer library, XSS, salt and paper.  https://github.com/gahramanova/Petpal-backend 
-- **Streamvibe-movie** - **Overview** The main goal of the platform is to enable users to find, watch the movies what they want, get information about actors and scenarios. (React.js + TailwindCss)
-- https://github.com/gahramanova/streamvibe-movie
+- **Streamvibe-movie** - **Overview** The main goal of the platform is to enable users to find, watch the movies what they want, get information about actors and scenarios. (React.js + TailwindCss) https://github.com/gahramanova/streamvibe-movie
 - **Weather App** - **Overview** The main goal of the platform is to enable users find easily the currently weather condition of wherever city. (React.js + Bootstrap5.3) https://github.com/gahramanova/Weather-App
 - **Webluna Software** - **Overview** The main goal of the platform is give to users the detailed information about company. (React.js + Bootstrap5.3) (It is a private repo)
 - **Gülçü.az** - **Overview** The main goal of the platform is to provide users to do online flower shopping and delivery address on time. (React.js + TailwindCss) (It is a private repo)
